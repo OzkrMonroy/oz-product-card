@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Product Title component should display the name of the product that is saved in the context 1`] = `
+<div
+  className="productCard undefined"
+>
+  <span
+    className="productDescription undefined"
+  >
+    This is an example - Without image
+  </span>
+</div>
+`;
+
+exports[`Product Title component should render the title which is provide by prop 1`] = `
+<span
+  className="productDescription undefined"
+>
+  Custom name
+</span>
+`;
