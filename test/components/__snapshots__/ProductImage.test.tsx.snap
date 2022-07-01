@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Product Image component should display the product image when nothing is sended 1`] = `
+<div
+  className="productCard undefined"
+>
+  <img
+    alt="This is an example - With image"
+    className="productImg undefined"
+    src="https://awesomeurl.com/product.jpg"
+  />
+</div>
+`;
+
+exports[`Product Image component should render the image that is passed by props 1`] = `
+<img
+  alt="Custom image"
+  className="productImg undefined"
+  src="https://beautifulurl.com/image.jpg"
+/>
+`;
